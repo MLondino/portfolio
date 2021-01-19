@@ -29,7 +29,7 @@ h1, h2, h3 {
 
 p, ul, ol, a {
   font-family : Helvetica, Arial, sans-serif;
-  font-size : 12px 
+  font-size : 18px 
 }
 
 /*to create a more dynamic horizontal break that doesn't span the full screen*/
@@ -55,16 +55,8 @@ main div {
 }
 
 /*stlye for differents points of interaction of the links*/
-a:link {color: red;}
-a:visited {color: rgb(0, 0, 0);}
+a:link {color: rgb(51, 255, 0);}
+a:visited {color: aqua (0, 0, 0);}
 a:hover {color: rgb(223, 252, 96);}
 a:active {color: blue;}
 
-/*to force the footer to the bottom of the page and realign to center*/
-footer {
-   position:fixed;
-   left:0px;
-   bottom:0px;
-   height:30px;
-   width:100%;
-}
