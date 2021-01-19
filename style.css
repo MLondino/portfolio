@@ -24,7 +24,7 @@ img {
 /*next two styles to give font styles to the page*/
 h1, h2, h3 {
   font-family : Georgia, "Times New Roman", Serif;
-  
+  color: teal;
 }
 
 p, ul, ol, a {
